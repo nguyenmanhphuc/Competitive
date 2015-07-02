@@ -13,5 +13,9 @@ Hello
 
 hello
 3
+<<<<<<< HEAD
 s
 f
+=======
+s
+>>>>>>> a2d9ce978db1fb0378508f9b709ebc4d9e5f32e5
